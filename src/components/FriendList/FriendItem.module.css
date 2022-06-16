@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    border: 1px solid rgb(222, 222, 222);
+    box-shadow: 1px 1px 5px;
+    margin: 5px;
+    
+}
+
+.status {
+    width: 15px;
+    height: 15px;
+    margin-top: 30px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+
+.avatar {
+    width: 80px;
+    padding-left: 10px;
+
+}
+
+.name {
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
